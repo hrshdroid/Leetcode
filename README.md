@@ -7,6 +7,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hrshdroid/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/hrshdroid/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hrshdroid/Leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/hrshdroid/Leetcode/tree/master/0136-single-number) |
 ## Binary Search
@@ -27,4 +28,8 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hrshdroid/Leetcode/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/hrshdroid/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
