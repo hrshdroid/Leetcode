@@ -17,6 +17,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/hrshdroid/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/hrshdroid/Leetcode/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
