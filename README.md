@@ -10,6 +10,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0027-remove-element](https://github.com/hrshdroid/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hrshdroid/Leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/hrshdroid/Leetcode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/hrshdroid/Leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hrshdroid/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/hrshdroid/Leetcode/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/hrshdroid/Leetcode/tree/master/0027-remove-element) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/hrshdroid/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
