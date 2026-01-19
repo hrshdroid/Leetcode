@@ -34,8 +34,17 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/hrshdroid/Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hrshdroid/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/hrshdroid/Leetcode/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hrshdroid/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hrshdroid/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
