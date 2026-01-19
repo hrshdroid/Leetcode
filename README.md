@@ -35,6 +35,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0027-remove-element](https://github.com/hrshdroid/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hrshdroid/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/hrshdroid/Leetcode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hrshdroid/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/hrshdroid/Leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/hrshdroid/Leetcode/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
