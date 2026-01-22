@@ -23,6 +23,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0009-palindrome-number](https://github.com/hrshdroid/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/hrshdroid/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/hrshdroid/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/hrshdroid/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hrshdroid/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/hrshdroid/Leetcode/tree/master/0441-arranging-coins) |
 ## Hash Table
@@ -60,5 +61,6 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/hrshdroid/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/hrshdroid/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hrshdroid/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
