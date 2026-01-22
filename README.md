@@ -16,11 +16,13 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0035-search-insert-position](https://github.com/hrshdroid/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hrshdroid/Leetcode/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/hrshdroid/Leetcode/tree/master/0441-arranging-coins) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hrshdroid/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/hrshdroid/Leetcode/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/hrshdroid/Leetcode/tree/master/0441-arranging-coins) |
 ## Hash Table
 |  |
 | ------- |
