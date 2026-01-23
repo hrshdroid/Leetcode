@@ -56,6 +56,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0125-valid-palindrome](https://github.com/hrshdroid/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/hrshdroid/Leetcode/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/hrshdroid/Leetcode/tree/master/0742-to-lower-case) |
+| [2235-capitalize-the-title](https://github.com/hrshdroid/Leetcode/tree/master/2235-capitalize-the-title) |
 ## String Matching
 |  |
 | ------- |
