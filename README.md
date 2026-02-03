@@ -11,11 +11,13 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0035-search-insert-position](https://github.com/hrshdroid/Leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/hrshdroid/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/hrshdroid/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/hrshdroid/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/hrshdroid/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hrshdroid/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/hrshdroid/Leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/hrshdroid/Leetcode/tree/master/0441-arranging-coins) |
 ## Math
 |  |
@@ -23,6 +25,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0009-palindrome-number](https://github.com/hrshdroid/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/hrshdroid/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/hrshdroid/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/hrshdroid/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/hrshdroid/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hrshdroid/Leetcode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/hrshdroid/Leetcode/tree/master/0441-arranging-coins) |
@@ -31,11 +34,13 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0001-two-sum](https://github.com/hrshdroid/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/hrshdroid/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/hrshdroid/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hrshdroid/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/hrshdroid/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/hrshdroid/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/hrshdroid/Leetcode/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
@@ -48,6 +53,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/hrshdroid/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/hrshdroid/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
