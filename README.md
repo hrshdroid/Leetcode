@@ -25,6 +25,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0009-palindrome-number](https://github.com/hrshdroid/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/hrshdroid/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/hrshdroid/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/hrshdroid/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hrshdroid/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/hrshdroid/Leetcode/tree/master/0326-power-of-three) |
@@ -78,9 +79,14 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hrshdroid/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrshdroid/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hrshdroid/Leetcode/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hrshdroid/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
