@@ -1,8 +1,5 @@
 bool isHappy(int n) {
    while (n != 1 && n != 4){
-    if (n==1){
-        return true;
-    }
     int nnum=0;
     while (n>0){
         int temp=n%10;
