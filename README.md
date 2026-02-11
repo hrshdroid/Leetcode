@@ -27,6 +27,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0009-palindrome-number](https://github.com/hrshdroid/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/hrshdroid/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/hrshdroid/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/hrshdroid/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/hrshdroid/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/hrshdroid/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/hrshdroid/Leetcode/tree/master/0263-ugly-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hrshdroid/Leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/hrshdroid/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/hrshdroid/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hrshdroid/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -53,6 +55,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0027-remove-element](https://github.com/hrshdroid/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hrshdroid/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/hrshdroid/Leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/hrshdroid/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/hrshdroid/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/hrshdroid/Leetcode/tree/master/0344-reverse-string) |
 ## Sorting
