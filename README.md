@@ -16,6 +16,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0268-missing-number](https://github.com/hrshdroid/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hrshdroid/Leetcode/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/hrshdroid/Leetcode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/hrshdroid/Leetcode/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hrshdroid/Leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/hrshdroid/Leetcode/tree/master/0682-baseball-game) |
 ## Memoization
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/hrshdroid/Leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/hrshdroid/Leetcode/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
