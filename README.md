@@ -103,6 +103,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0234-palindrome-linked-list](https://github.com/hrshdroid/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/hrshdroid/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hrshdroid/Leetcode/tree/master/0342-power-of-four) |
+| [2487-remove-nodes-from-linked-list](https://github.com/hrshdroid/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0145-binary-tree-postorder-traversal](https://github.com/hrshdroid/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/hrshdroid/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/hrshdroid/Leetcode/tree/master/0682-baseball-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/hrshdroid/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0203-remove-linked-list-elements](https://github.com/hrshdroid/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/hrshdroid/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/hrshdroid/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/hrshdroid/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -173,4 +176,8 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hrshdroid/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/hrshdroid/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
