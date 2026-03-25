@@ -27,6 +27,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hrshdroid/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/hrshdroid/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/hrshdroid/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/hrshdroid/Leetcode/tree/master/0070-climbing-stairs) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hrshdroid/Leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/hrshdroid/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/hrshdroid/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/hrshdroid/Leetcode/tree/master/0326-power-of-three) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hrshdroid/Leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hrshdroid/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/hrshdroid/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Tree
