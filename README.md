@@ -165,18 +165,21 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hrshdroid/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/hrshdroid/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/hrshdroid/Leetcode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hrshdroid/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hrshdroid/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/hrshdroid/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/hrshdroid/Leetcode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hrshdroid/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hrshdroid/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/hrshdroid/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/hrshdroid/Leetcode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hrshdroid/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
@@ -198,4 +201,5 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hrshdroid/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/hrshdroid/Leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
