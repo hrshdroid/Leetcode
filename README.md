@@ -17,6 +17,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0119-pascals-triangle-ii](https://github.com/hrshdroid/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrshdroid/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hrshdroid/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/hrshdroid/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hrshdroid/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hrshdroid/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hrshdroid/Leetcode/tree/master/0283-move-zeroes) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0001-two-sum](https://github.com/hrshdroid/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/hrshdroid/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hrshdroid/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/hrshdroid/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/hrshdroid/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/hrshdroid/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hrshdroid/Leetcode/tree/master/0268-missing-number) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hrshdroid/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/hrshdroid/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hrshdroid/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hrshdroid/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/hrshdroid/Leetcode/tree/master/0645-set-mismatch) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hrshdroid/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/hrshdroid/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/hrshdroid/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
@@ -223,4 +227,8 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0101-symmetric-tree](https://github.com/hrshdroid/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hrshdroid/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hrshdroid/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/hrshdroid/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
