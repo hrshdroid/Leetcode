@@ -23,6 +23,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0283-move-zeroes](https://github.com/hrshdroid/Leetcode/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/hrshdroid/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/hrshdroid/Leetcode/tree/master/0682-baseball-game) |
+| [0860-lemonade-change](https://github.com/hrshdroid/Leetcode/tree/master/0860-lemonade-change) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0011-container-with-most-water](https://github.com/hrshdroid/Leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/hrshdroid/Leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/hrshdroid/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/hrshdroid/Leetcode/tree/master/0860-lemonade-change) |
 ## Divide and Conquer
 |  |
 | ------- |
