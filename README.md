@@ -14,6 +14,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0066-plus-one](https://github.com/hrshdroid/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/hrshdroid/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/hrshdroid/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/hrshdroid/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrshdroid/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hrshdroid/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/hrshdroid/Leetcode/tree/master/0217-contains-duplicate) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | ------- |
 | [0070-climbing-stairs](https://github.com/hrshdroid/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/hrshdroid/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/hrshdroid/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hrshdroid/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
