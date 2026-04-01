@@ -23,6 +23,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0283-move-zeroes](https://github.com/hrshdroid/Leetcode/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/hrshdroid/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/hrshdroid/Leetcode/tree/master/0682-baseball-game) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/hrshdroid/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/hrshdroid/Leetcode/tree/master/0860-lemonade-change) |
 ## Binary Search
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0217-contains-duplicate](https://github.com/hrshdroid/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hrshdroid/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/hrshdroid/Leetcode/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/hrshdroid/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## String
 |  |
 | ------- |
