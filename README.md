@@ -24,6 +24,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0645-set-mismatch](https://github.com/hrshdroid/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/hrshdroid/Leetcode/tree/master/0682-baseball-game) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/hrshdroid/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0748-shortest-completing-word](https://github.com/hrshdroid/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0860-lemonade-change](https://github.com/hrshdroid/Leetcode/tree/master/0860-lemonade-change) |
 ## Binary Search
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0268-missing-number](https://github.com/hrshdroid/Leetcode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/hrshdroid/Leetcode/tree/master/0409-longest-palindrome) |
 | [0645-set-mismatch](https://github.com/hrshdroid/Leetcode/tree/master/0645-set-mismatch) |
+| [0748-shortest-completing-word](https://github.com/hrshdroid/Leetcode/tree/master/0748-shortest-completing-word) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0482-license-key-formatting](https://github.com/hrshdroid/Leetcode/tree/master/0482-license-key-formatting) |
 | [0680-valid-palindrome-ii](https://github.com/hrshdroid/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/hrshdroid/Leetcode/tree/master/0742-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/hrshdroid/Leetcode/tree/master/0748-shortest-completing-word) |
 | [2235-capitalize-the-title](https://github.com/hrshdroid/Leetcode/tree/master/2235-capitalize-the-title) |
 ## String Matching
 |  |
