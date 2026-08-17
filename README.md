@@ -254,4 +254,8 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hrshdroid/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/hrshdroid/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
