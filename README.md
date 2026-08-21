@@ -114,6 +114,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0168-excel-sheet-column-title](https://github.com/hrshdroid/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/hrshdroid/Leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/hrshdroid/Leetcode/tree/master/0409-longest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/hrshdroid/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/hrshdroid/Leetcode/tree/master/0482-license-key-formatting) |
 | [0680-valid-palindrome-ii](https://github.com/hrshdroid/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/hrshdroid/Leetcode/tree/master/0742-to-lower-case) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hrshdroid/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/hrshdroid/Leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Recursion
 |  |
 | ------- |
@@ -260,4 +262,12 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/hrshdroid/Leetcode/tree/master/0175-combine-two-tables) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/hrshdroid/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/hrshdroid/Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
