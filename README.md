@@ -21,6 +21,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0217-contains-duplicate](https://github.com/hrshdroid/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hrshdroid/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hrshdroid/Leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/hrshdroid/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hrshdroid/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/hrshdroid/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/hrshdroid/Leetcode/tree/master/0682-baseball-game) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0169-majority-element](https://github.com/hrshdroid/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hrshdroid/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/hrshdroid/Leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/hrshdroid/Leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/hrshdroid/Leetcode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/hrshdroid/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## String
