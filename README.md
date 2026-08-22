@@ -51,6 +51,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0268-missing-number](https://github.com/hrshdroid/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/hrshdroid/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/hrshdroid/Leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/hrshdroid/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/hrshdroid/Leetcode/tree/master/0441-arranging-coins) |
 ## Hash Table
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0168-excel-sheet-column-title](https://github.com/hrshdroid/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/hrshdroid/Leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/hrshdroid/Leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/hrshdroid/Leetcode/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/hrshdroid/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/hrshdroid/Leetcode/tree/master/0482-license-key-formatting) |
 | [0680-valid-palindrome-ii](https://github.com/hrshdroid/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/hrshdroid/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/hrshdroid/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/hrshdroid/Leetcode/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
