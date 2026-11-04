@@ -290,4 +290,5 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/hrshdroid/Leetcode/tree/master/1114-print-in-order) |
+| [1115-print-foobar-alternately](https://github.com/hrshdroid/Leetcode/tree/master/1115-print-foobar-alternately) |
 <!---LeetCode Topics End-->
