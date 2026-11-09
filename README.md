@@ -211,6 +211,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0111-minimum-depth-of-binary-tree](https://github.com/hrshdroid/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hrshdroid/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hrshdroid/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/hrshdroid/Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0111-minimum-depth-of-binary-tree](https://github.com/hrshdroid/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hrshdroid/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hrshdroid/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/hrshdroid/Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0111-minimum-depth-of-binary-tree](https://github.com/hrshdroid/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hrshdroid/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/hrshdroid/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/hrshdroid/Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A collection of LeetCode questions - Created using [LeetHub v2](https://github.c
 | [0101-symmetric-tree](https://github.com/hrshdroid/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hrshdroid/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/hrshdroid/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/hrshdroid/Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Counting
 |  |
 | ------- |
